@@ -1,7 +1,7 @@
 /**
  * File: csci1302/ch16/MileageCalculator.java
  * Package: ch16
- * @author Christopher Jeschhkeit and Hunter Jones
+ * @author Christopher Jeschhkeit
  * Created on: Nov. 4, 2022
  * Last Modified: Nov. 8, 2022
  * Description: switch out radiobuttons for a combo box to calculate MPG
